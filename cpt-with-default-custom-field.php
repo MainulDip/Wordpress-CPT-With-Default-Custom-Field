@@ -1,14 +1,15 @@
 <?php
 /*
-Plugin Name: Custom Post Type Maker
+Plugin Name: CPT With Default Custom Field
 Plugin URI: https://github.com/Graffino/custom-post-type-maker-ui
-Description: Custom Post Type Maker lets you create Custom Post Types and custom Taxonomies in a user friendly way.
+Description: Custom Post Type Maker lets you create Custom Post Types and custom Taxonomies in a user friendly way. Default Custom Field Added Lately By Me, Experimentally.
 Version: 1.1.6
 Author: Graffino
 Author URI: http://www.graffino.com/
 Text Domain: custom-post-type-maker
 Domain Path: /lang
 
+Edited By: Me, MainulDip. All Credit Goes To Original Author @Graffino.
 
 Originally by: http://www.bakhuys.com/
 
